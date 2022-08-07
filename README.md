@@ -22,15 +22,13 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 
 Installation:
 
-`npm install`  
+### `npm install`  
 
 To Run Test Suite:  
 
-`npm test`  
+### `npm test`  
 
 To Start Server:
-
-`npm start`  
 
 ### `npm start`
 
