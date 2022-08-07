@@ -18,6 +18,20 @@ You can also change styles by modifying the ```public/css``` files.
 
 In the project directory, you can run:
 
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`  
+
+To Run Test Suite:  
+
+`npm test`  
+
+To Start Server:
+
+`npm start`  
+
 ### `npm start`
 
 Runs the app in the development mode.\
