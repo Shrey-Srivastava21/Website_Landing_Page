@@ -4,7 +4,7 @@
 ![](https://github.com/wonderfullandingpage/mylandingpage/blob/master/imgs/02.jpg?raw=true)
 
 ## Description
-This is a ReactJS based landing page template. All 'visual' data can be easily modified by changing the data.json file. The project fork is from https://github.com/issaafalkattan/React-Landing-Page-Template. Thanks to the author for a great project.
+This is a ReactJS based landing page template. All 'visual' data can be easily modified by changing the data.json file. 
 
 ## Make it Yours!
 ### 1. Preps
