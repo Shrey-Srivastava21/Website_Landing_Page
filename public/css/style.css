@@ -36,7 +36,7 @@ p {
 	font-size: 15px;
 }
 p.intro {
-	margin: 12px 0 0;
+	margin: 13px 0 0;
 	line-height: 24px;
 }
 a {
@@ -45,7 +45,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #608dfd;
+	color: #7afd60;
 }
 ul, ol {
 	list-style: none;
@@ -60,7 +60,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #1E7A46;
+	background: #7a1e5e;
 	margin-bottom: 20px;
 	border: 0;
 }
